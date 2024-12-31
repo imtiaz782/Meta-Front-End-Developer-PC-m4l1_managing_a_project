@@ -1,13 +1,14 @@
-Crimson
-Orange
+Teal
 Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
+Orange
 Red
+Purple
+Light 
+Yellow
+Teal
+Turquoise
+Dark Blue
+Green
+Yellow
+Light 
+Cyan
